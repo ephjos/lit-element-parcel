@@ -1,5 +1,7 @@
 # lit-element-parcel
 
+> The main branch is JavaScript, checkout the typescript branch for ts support
+
 ## Getting set up
 
 ### Parcel
