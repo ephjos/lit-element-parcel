@@ -1,4 +1,4 @@
-import { LitElement, css, html }  from 'lit-element';
+import { LitElement, css, html } from 'lit-element';
 
 export class AppRoot extends LitElement {
   static get styles() {
