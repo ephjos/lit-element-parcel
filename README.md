@@ -26,7 +26,11 @@ reflected.
 
 Runs a production build, outputs to `dist/`.
 
-### npm run test
+### npm run test:open
 
 Opens the cypress test-runner window and starts the dev server. Click a test to
 run it and visit the cypress docs to learn more about the runner.
+
+### npm run test
+
+Runs the cypress tests headless, use this in CI.
