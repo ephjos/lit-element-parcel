@@ -1,0 +1,28 @@
+:root {
+  --background: #ffffff;
+  --text-color: #232323;
+
+  --font-family: "Montserrat";
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: none;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-family);
+  line-height: 1.5;
+  background-color: var(--background);
+  color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
+}
