@@ -1,4 +1,4 @@
-# lit-test
+# lit-element-parcel
 
 ## Getting set up
 
